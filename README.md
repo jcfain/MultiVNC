@@ -4,5 +4,5 @@ MultiVNC is a VNC client that allows multiple screens to be on the same window f
 I have not been in this code for a few years now as I do not need it any more. If there is demand for the app I may continue to support it though. 
 The code needs a lot of love and care atm.
 
-Requires my library CSharpWin32Common to build
-May also require PsExec (https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) for remote machine management functions
+Requires my library CSharpWin32Common to build.
+Requirea PsExec (https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) for remote machine management functions
