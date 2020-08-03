@@ -5,3 +5,4 @@ I have not been in this code for a few years now as I do not need it any more. I
 The code needs a lot of love and care atm.
 
 Requires my library CSharpWin32Common to build
+May also require PsExec (https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) for remote machine management functions
